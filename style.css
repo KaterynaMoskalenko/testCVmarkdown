@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100wv;
+    height: auto;
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px 2px #ccc;
+}
+p{
+    width: 400px;
+    margin: 100px auto;
+}
+.text-block{
+    color: blueviolet;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+}
