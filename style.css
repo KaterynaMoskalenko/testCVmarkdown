@@ -19,3 +19,6 @@ p{
     font-size: 30px;
     font-weight: 700;
 }
+article:nth-child(2){
+    padding: 200px;
+}
